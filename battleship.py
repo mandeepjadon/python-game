@@ -42,4 +42,4 @@ for turn in range(4):
     if turn==3:
         print "Game Over !!"
     else :
-        print turn+1
+        print "turn number ",turn+1
